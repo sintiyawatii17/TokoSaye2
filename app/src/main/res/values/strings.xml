@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Toko Saye</string>
+
+
+    <string name="content_text">Dengan belanja di Toko Saye, kamu bisa mendapatkan harga Ongkir yang kompetitif. Bahkan bukan hanya kompetitif, promo Gratis Ongkir bukanlah hal asing lagi di Toko Saye.</string>
+    <string name="content_specs_display"> 13
+    </string>
+    <string name="content_specs_size">5.6 x 2.7 x 0.2 ~ 0.3 inches 143.8 x 69.5 x 7.3 ~ 8.5 mm</string>
+    <string name="content_specs_battery">Deskripsi Deskripsi Baju  Wanita woolpeach 10
+    Tampil lebih syar’i dengan Baju Gamis stelan Swarna
+    Ukhti Sering merasa gerah ketika memakai jilbab?
+    Ingin punya baju gamis yang nyaman dipakai sehari-hari?
+    ingin punya stelan gamis yang serasi dan berkualitas?Busana tidak ketat. Pakaian muslimah juga harus longgar dan tidak ketat sehingga tidak menggambarkan bentuk lekuk tubuh.
+    gamis dengan banyak pilihan warna yang indah tapi tak mencolok
+    ukuran gamis yang longgar,sehingga tak sempit dan nyaman dipakai. Tidak tipis dan tidak tembus pandang yang dapat menampakkan bentuk lekuk tubuh
+    Kualitas gamis yang terbilang premium dengan memperhatikan aspek jahitan yang rapi
+    Gamis yang menggunakan bahan-bahan pilihan sehingga memberikan kenyamanan saat dipakai
+    gamis Syar’i tampil menawan dengan kesedehanaan
+
+</string>
+    <string name="content_prize">Rp. 7.500.000</string>
+    <string name="_6_photos">6 Photos</string>
+    <string name="lbl_stok">Stok</string>
+    <string name="lbl_keranjang">Keranjang</string>
+    <string name="lbl_ukuran">Ukuran</string>
+    <string name="lbl_deskripsi">Deskripsi</string>
+</resources>
